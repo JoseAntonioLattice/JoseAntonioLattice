@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoseAntonioLattice
 - 👀 I’m interested in Quantum Field Theory (QFT), Particle Physics, Lattice QFT, Lattice Gauge Theories
-- 🌱 I’m currently learning to parellize Fortran code
-- 💞️ I’m looking to collaborate on Lattice QCD projects
+- 🌱 I’m currently learning to parellelize Fortran code
+- 💞️ I’m looking to collaborate in Lattice QCD projects
 - 😄 Pronouns: wtf?
 - ⚡ Fun fact: We are dust in the wind.
 
